@@ -10,17 +10,20 @@ Details Description : <br />
                          b.  I use Opacity and:: after (pseudo-element) to make a layer on the image.<br />
                          ![image](https://user-images.githubusercontent.com/85746819/224431422-fb726071-0dbd-4ad7-b8a7-8e84799fbb69.png)<br />
 
+
        > 3. Section 2 ->  This Section Contains a Heading paragraph and cards<br />
                          a. I wrap this into the container.<br />
-                         b. I user card component from Bootstrap and Wrap into the div then added some Classes of bootstrap<br />
-                         ![image](https://user-images.githubusercontent.com/85746819/224431496-9147392b-9843-4a69-8b68-cdf8538504b4.png)<br />
+                         b. I user card component from Bootstrap and Wrap into the div then added some Classes of bootstrap. <br />
+![image](https://user-images.githubusercontent.com/85746819/224433622-c04e73c2-9241-4452-9879-314c3245291b.png)
                          
-       > 4. Section 3 -> This section is the Same as Section 1 , and did some changes for brand.<br />
-                            ![image](https://user-images.githubusercontent.com/85746819/224431671-817b88ca-bb9c-4af1-ac0e-6db99a963a81.png)<br />
+       > 4. Section 3 -> This section is the Same as Section 1 , and did some changes for brand. <br />
+![image](https://user-images.githubusercontent.com/85746819/224433920-b251aae4-4c95-463b-acad-6feb67310681.png)
+
 
        > 5. Section 4 ->  This section contain a Heading,Some Description, and different Images <br />
                          a. I used Grid Property to Display Images in Grid.<br />
-                         ![image](https://user-images.githubusercontent.com/85746819/224431780-77b3ae4b-72b4-410e-bfcd-45070440ea99.png)<br />
+![image](https://user-images.githubusercontent.com/85746819/224434093-a99d3900-fdb4-4ecb-af5b-146633479344.png)
+
 
        > 6. Section 5 -> This Section has a Footer.<br />
                          a . I used Flex and Text align Properties <br />
