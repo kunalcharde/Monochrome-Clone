@@ -1,10 +1,10 @@
 ﻿# Monochrome-Clone
 ![image](https://user-images.githubusercontent.com/85746819/224427453-be35cc8b-a94e-4c22-8cf8-ac5529f04d4b.png)
-Tech Stack : HTML ,CSS, Boostrap
+Tech Stack : HTML ,CSS, Bootstrap
 Descrption: Monochrome Clone is a website that has been created using HTML, CSS, and Bootstrap, with a focus on the monochrome color scheme. The website features a clean and modern design, with a minimalistic layout that makes it easy to navigate. The color scheme of the website is primarily black and white, with shades of gray used to create a sense of depth and contrast.<br />
 Details Description : <br />
        > I break out this website into different divs and sections.<br />
-       > 1. Nav -> I used the Nav Component of Boostrap by Making Some Changes to it<br />
+       > 1. Nav -> I used the Nav Component of Bootstrap by Making Some Changes to it<br />
        > 2. section 1 ->  This section Contain an image and above the image we have Heading and Description<br />
                          a.  I use Z-index Properties to make this happen <br /><br />
                          b.  I use Opacity and:: after (pseudo-element) to make a layer on the image.<br />
